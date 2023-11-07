@@ -1,0 +1,14 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.container{
+    margin: 60px auto;
+    padding:20px;
+    width:60%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #eee;
+}
